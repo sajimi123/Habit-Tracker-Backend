@@ -1,0 +1,90 @@
+{
+  "habit": [
+    {
+      "name": "food",
+      "category": "Health",
+      "frequency": "Weekly",
+      "target": "3",
+      "startDate": "2026-10-06",
+      "notes": "fd",
+      "completionDates": [
+        "2026-10-03",
+        "2026-10-04"
+      ],
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "name": "ss",
+      "category": "Health",
+      "frequency": "Weekly",
+      "target": "4",
+      "startDate": "2026-10-07",
+      "notes": "qq",
+      "completionDates": [],
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "name": "ds",
+      "category": "Fitness",
+      "frequency": "Monthly",
+      "target": "9",
+      "startDate": "2026-10-09",
+      "notes": "ds",
+      "completionDates": [],
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "name": "reading",
+      "category": "Study",
+      "frequency": "Weekly",
+      "target": "30",
+      "startDate": "2026-10-06",
+      "notes": "reads books",
+      "completionDates": [
+        "2026-10-04"
+      ],
+      "userId": 2,
+      "id": 4
+    },
+    {
+      "name": "Study notes",
+      "category": "Study",
+      "frequency": "Monthly",
+      "target": "3",
+      "startDate": "2026-10-13",
+      "notes": "study",
+      "completionDates": [],
+      "userId": 4,
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "sajimi",
+      "email": "musthafpm42@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "sheri",
+      "email": "123@gmail.com",
+      "password": "321",
+      "id": 2
+    },
+    {
+      "name": "sajimi",
+      "email": "456@gmail.com",
+      "password": "654",
+      "id": 3
+    },
+    {
+      "name": "sumi",
+      "email": "sumi@gmail.com",
+      "password": "sumi",
+      "id": 4
+    }
+  ]
+}
